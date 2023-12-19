@@ -1,0 +1,5 @@
+uart_com.c:28:6:reset_buffer	16	static
+uart_com.c:35:6:command_parser_fsm	8	static
+uart_com.c:83:6:uart_communication_fsm	8	static
+uart_com.c:127:6:error_hanlder	8	static
+uart_com.c:153:6:System_Go_To_Sleep	8	static
